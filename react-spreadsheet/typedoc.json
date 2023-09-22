@@ -1,0 +1,7 @@
+{
+  "entryPoints": ["./src/index.ts"],
+  "out": "reference",
+  "readme": "none",
+  "excludeNotDocumented": true,
+  "exclude": ["**/*.test.ts", "**/*.test.tsx", "**/*.stories.tsx"]
+}
